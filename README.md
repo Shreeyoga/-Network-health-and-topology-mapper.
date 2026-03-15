@@ -1,1 +1,1 @@
-:  Automatically discover,visualize and monitor the physical and logical structure of a network. Provides a visual representation of devices, connections  and network health status.
+The Network Health and Topology Mapper is a tool designed to monitor and visualize the structure and performance of a computer network. The system automatically discovers devices connected to the network, maps their connections, and analyzes the overall network health.
